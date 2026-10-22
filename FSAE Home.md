@@ -31,7 +31,10 @@ Map of the vault. Start here.
 - [[Points Estimate]] · [[Accumulator Sizing]] · [[Brake Bias]] · [[Mass Budget]]
 
 ## Logs
-- [[Build Log]] · `Logs/Meetings` · `Logs/Tests` · `Decisions/`
+- [[Build Log]] · `Logs/Tests` · `Decisions/`
+
+## Notes
+- [[Inguar]] — meeting notes
 
 ## Templates
 `Templates/` — Meeting, Test Session, Design Decision, Daily. Insert with *Templates: Insert template*.
