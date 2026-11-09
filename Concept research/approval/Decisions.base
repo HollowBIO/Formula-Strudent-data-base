@@ -1,0 +1,44 @@
+filters:
+  and:
+    - file.inFolder("Concept research/approval")
+    - 'note.type == "decision"'
+    - 'file.name != "_Decision template"'
+views:
+  - type: table
+    name: All decisions
+    order:
+      - file.name
+      - approved
+      - status
+      - proposed
+      - chosen
+      - depends_on
+      - owner
+      - deadline
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: By status
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - file.name
+      - approved
+      - proposed
+      - chosen
+      - owner
+      - deadline
+  - type: table
+    name: Final concept
+    filters:
+      and:
+        - 'note.approved == true'
+    order:
+      - file.name
+      - chosen
+      - approved_on
+    sort:
+      - property: file.name
+        direction: ASC

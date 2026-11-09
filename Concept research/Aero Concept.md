@@ -15,7 +15,6 @@ Going for a high-downforce package, with the effort on the front wing, rear wing
 - Bolt-on and removable, so the car can always run without it
 - Its own small group with a clear go/no-go date
 - Frame and suspension mounts rated for aero loads from the start
-- Reuse the team's CFD / SimScale wing experience
 
 ## Wings
 
