@@ -9,7 +9,7 @@ tags:
 
 # EV Powertrain
 
-Part of **Powertrain** — see [[FSAE Home]].
+Part of **Powertrain** — see [[FS Home]].
 
 Motor(s), inverter(s), gearbox, driveshafts, control (traction/torque vectoring).
 

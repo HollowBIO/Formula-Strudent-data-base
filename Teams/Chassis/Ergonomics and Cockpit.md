@@ -8,7 +8,7 @@ tags:
 
 # Ergonomics and Cockpit
 
-Part of **Chassis** — see [[FSAE Home]].
+Part of **Chassis** — see [[FS Home]].
 
 Driver fit, seat, harness, steering wheel, visibility, egress.
 

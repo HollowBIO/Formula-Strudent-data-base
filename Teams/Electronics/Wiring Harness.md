@@ -8,7 +8,7 @@ tags:
 
 # Wiring Harness
 
-Part of **Electrical** — see [[FSAE Home]].
+Part of **Electrical** — see [[FS Home]].
 
 Connectors, wire gauges, routing, strain relief, HV/LV separation.
 

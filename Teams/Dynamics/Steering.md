@@ -8,7 +8,7 @@ tags:
 
 # Steering
 
-Part of **Dynamics** — see [[FSAE Home]].
+Part of **Dynamics** — see [[FS Home]].
 
 Rack, column, steering ratio, Ackermann, quick-release wheel.
 

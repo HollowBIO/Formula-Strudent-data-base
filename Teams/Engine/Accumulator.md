@@ -10,7 +10,7 @@ tags:
 
 # Accumulator
 
-Part of **Powertrain** — see [[FSAE Home]].
+Part of **Powertrain** — see [[FS Home]].
 
 Cells, segments, BMS/AMS, container, fusing, cooling.
 

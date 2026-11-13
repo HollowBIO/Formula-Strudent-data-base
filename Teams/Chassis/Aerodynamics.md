@@ -8,7 +8,7 @@ tags:
 
 # Aerodynamics
 
-Part of **Aero** — see [[FSAE Home]].
+Part of **Aero** — see [[FS Home]].
 
 Wings, undertray, diffuser. Large effect on autocross/skidpad, cost in mass and drag.
 

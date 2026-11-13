@@ -10,7 +10,7 @@ tags:
 
 # Shutdown Circuit and TS Safety
 
-Part of **Electrical** — see [[FSAE Home]].
+Part of **Electrical** — see [[FS Home]].
 
 Series loop that, when opened, opens the AIRs and de-energises the tractive system. Contains: master switches, shutdown buttons, BOTS, inertia switch, IMD, AMS, BSPD, interlocks, HVD.
 

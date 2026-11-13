@@ -8,7 +8,7 @@ tags:
 
 # Frame and Chassis
 
-Part of **Chassis** — see [[FSAE Home]].
+Part of **Chassis** — see [[FS Home]].
 
 Primary structure: main hoop, front hoop, front bulkhead + impact attenuator, side impact structure, roll hoop bracing.
 
@@ -22,6 +22,7 @@ Primary structure: main hoop, front hoop, front bulkhead + impact attenuator, si
 
 ## Notes
 
+- Component-by-component rules checklist (FS Rules 2026 v1.1): [[FS Chassis Components Checklist]]
 
 ## Sources
 

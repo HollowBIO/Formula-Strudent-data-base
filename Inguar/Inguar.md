@@ -17,7 +17,7 @@ LIST FROM "Inguar" WHERE file.name != "Inguar" SORT file.name DESC
 
 > [!note] The list above needs the Dataview community plugin. Without it, use the folder in the file explorer.
 
-See [[FSAE Home]].
+See [[FS Home]].
 
 710 кубів макс двигун, 
 ДЕякі питання:

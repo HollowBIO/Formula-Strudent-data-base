@@ -8,7 +8,7 @@ tags:
 
 # Brakes
 
-Part of **Dynamics** — see [[FSAE Home]].
+Part of **Dynamics** — see [[FS Home]].
 
 Two hydraulic circuits, balance bar, calipers, rotors, brake over-travel switch.
 

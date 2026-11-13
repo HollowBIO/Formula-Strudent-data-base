@@ -9,7 +9,7 @@ tags:
 
 # Data Acquisition and Telemetry
 
-Part of **Data** — see [[FSAE Home]].
+Part of **Data** — see [[FS Home]].
 
 Logging, live telemetry, sensors. Data is what turns design-event claims into evidence.
 

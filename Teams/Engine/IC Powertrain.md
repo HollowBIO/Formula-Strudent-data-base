@@ -9,7 +9,7 @@ tags:
 
 # IC Powertrain
 
-Part of **Powertrain** — see [[FSAE Home]].
+Part of **Powertrain** — see [[FS Home]].
 
 Engine, intake + restrictor, exhaust, fuel system, chain drive, diff. Delete if EV.
 

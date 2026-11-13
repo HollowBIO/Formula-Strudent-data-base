@@ -20,7 +20,7 @@ Map of the vault. Start here.
 
 ## Car
 - [[Team and Car Spec]] — EV or IC, targets, open decisions
-- Chassis: [[Frame and Chassis]] · [[Ergonomics and Cockpit]]
+- Chassis: [[Frame and Chassis]] · [[Ergonomics and Cockpit]] · [[FS Chassis Components Checklist]]
 - Dynamics: [[Suspension and Vehicle Dynamics]] · [[Steering]] · [[Brakes]] · [[Tyres]]
 - Powertrain: [[EV Powertrain]] · [[Accumulator]] · [[IC Powertrain]]
 - Electrical: [[Shutdown Circuit and TS Safety]] · [[Low Voltage System]] · [[Wiring Harness]] · [[Pedal Box and APPS]]

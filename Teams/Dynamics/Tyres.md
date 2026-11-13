@@ -8,7 +8,7 @@ tags:
 
 # Tyres
 
-Part of **Dynamics** — see [[FSAE Home]].
+Part of **Dynamics** — see [[FS Home]].
 
 Usually the single biggest performance lever. TTC (Tyre Test Consortium) data exists for FS tyres.
 

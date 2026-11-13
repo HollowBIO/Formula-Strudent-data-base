@@ -9,7 +9,7 @@ tags:
 
 # Suspension and Vehicle Dynamics
 
-Part of **Dynamics** — see [[FSAE Home]].
+Part of **Dynamics** — see [[FS Home]].
 
 Kinematics (roll centre, camber gain, bump steer), springs/dampers, ARBs, load transfer.
 

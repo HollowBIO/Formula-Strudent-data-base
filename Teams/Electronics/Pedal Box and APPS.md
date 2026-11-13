@@ -9,7 +9,7 @@ tags:
 
 # Pedal Box and APPS
 
-Part of **Electrical** — see [[FSAE Home]].
+Part of **Electrical** — see [[FS Home]].
 
 Throttle sensors, brake pressure sensors, implausibility logic, pedal adjustment.
 

@@ -10,8 +10,8 @@ tags:
 ## Rulebooks
 - FSAE (SAE International): fsaeonline.com — current rules + Q&A / rules clarifications
 - Formula Student Germany: formulastudent.de — FS Rules + competition handbook
-- Add the PDF of the edition we're entering to `Attachments/` and link it here:
-  - (link the PDF here) #todo
+- Rulebook PDF in `Attachments/`:
+  - [[FS_Rules_2027_v1.0.pdf|FS Rules 2027 v1.0]] — current edition, published 2026-09-29 ([source](https://www.formulastudent.de/fsg/rules/))
 
 ## Books
 - Milliken & Milliken — *Race Car Vehicle Dynamics*

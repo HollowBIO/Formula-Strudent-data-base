@@ -9,7 +9,7 @@ tags:
 
 # Cooling
 
-Part of **Powertrain** — see [[FSAE Home]].
+Part of **Powertrain** — see [[FS Home]].
 
 Motor/inverter or engine cooling, accumulator cooling, radiator sizing.
 

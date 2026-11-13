@@ -9,7 +9,7 @@ tags:
 
 # Low Voltage System
 
-Part of **Electrical** — see [[FSAE Home]].
+Part of **Electrical** — see [[FS Home]].
 
 GLV battery, DC-DC from TS, power distribution, fusing, ECUs/VCU, CAN bus.
 
